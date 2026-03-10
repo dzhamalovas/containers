@@ -1,0 +1,21 @@
+﻿Age,Income,LoanAmount,CreditScore,YearsExperience,Gender,Education,City,EmploymentType,LoanApproved
+34,52000,18000,620,10,Male,Bachelors,Chicago,Salaried,1
+45,78000,22000,690,18,Female,Masters,New York,Salaried,1
+29,41000,26000,560,6,Male,High School,Houston,Salaried,0
+52,95000,30000,710,25,Female,PhD,San Francisco,Self-Employed,1
+38,61000,21000,650,14,Male,Bachelors,Chicago,Salaried,1
+26,35000,24000,540,Female,High School,Houston,Unemployed,0
+41,68000,20000,670,17,Male,Masters,New York,Salaried,1
+33,57000,19000,640,9,Female,Bachelors,Chicago,Salaried,1
+47,82000,25000,700,20,Male,Masters,San Francisco,Self-Employed,1
+31,48000,27000,580,8,Female,Bachelors,Houston,Salaried,0
+36,60000,21000,660,12,Male,Bachelors,Chicago,Salaried,1
+28,42000,26000,560,5,Female,High School,Houston,Salaried,0
+50,88000,24000,705,24,Male,PhD,New York,Salaried,1
+39,64000,22000,670,15,Female,Masters,Chicago,Salaried,1
+44,72000,23000,690,19,Male,Masters,San Francisco,Self-Employed,1
+30,46000,25000,575,7,Female,Bachelors,Houston,Salaried,0
+35,58000,20000,645,11,Male,Bachelors,Chicago,Salaried,1
+42,70000,21000,680,18,Female,Masters,New York,Salaried,1
+27,39000,27000,550,4,Male,High School,Houston,Unemployed,0
+48,85000,24000,700,22,Female,PhD,San Francisco,Self-Employed,1
